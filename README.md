@@ -2,7 +2,6 @@
 <h3 align="center">I am a senior computer engineering student who is curious about software and wants to become a great software developer.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecemakcay&label=Profile%20views&color=0e75b6&style=flat" alt="ecemakcay" /> </p>
 
 - 🌱 I’m currently learning **Backend and android development**
 

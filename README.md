@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ecem Akcay</h1>
-<h3 align="center">I am trying to learn everything i can to be a good software developer. I am Innovative, committed to continuously improving skills and processes. Enthusiastic, tenacious, adaptable, collaborative.
-I have gained significant experience in the area of mobile application development through internships and projects. Nowadays i am trying to improve myself by learning Swift and IOS Development.</h3>
+<h3 align="center">I am trying to learn everything i can to be a good software developer. I am Innovative, committed to continuously improving skills and processes.Nowadays i am trying to improve myself by learning Swift and IOS Development.</h3>
 
 
 - 📫 How to reach me **ecemakcay00@gmail.com**

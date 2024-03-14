@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ecem Akcay</h1>
+<h1 align="center">Hi 👋, I'm Ecem</h1>
 
 <p align="center" >
   <img align="center" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="700" height="330"/>
@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ecemakcay" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="left">💻 Tech Stack</h3>
+<h2 align="left">💻 Tech Stack</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,androidstudio,java,firebase,spring,git,mysql,postgresql,css,html,bootstrap" />
